@@ -1,0 +1,10 @@
+# Ignore compiled binary
+linecoder
+
+# Ignore macOS system file
+.DS_Store
+
+# Ignore Gnuplot outputs
+*.dat
+*.png
+*.gnu
